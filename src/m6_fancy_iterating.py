@@ -22,7 +22,7 @@ import rosegraphics as rg
 def main():
     """ Calls the   TEST   functions in this module. """
     # ------------------------------------------------------------------
-    # TODO: 2.  EXAMINE the  4  sequences immediately below
+    # DONE: 2.  EXAMINE the  4  sequences immediately below
     #   this comment, and READ the instructions that follows them.
     #
     # When you have examined the 4 sequences below and understand how
@@ -513,7 +513,7 @@ def print_items_that_are_odd_integers(sequence):
       33 is at index 5
     """
     # ------------------------------------------------------------------
-    # TODO: 9. Implement and test this function.
+    # DONE: 9. Implement and test this function.
     #
     # IMPORTANT:  The  type  function returns  int  if its argument
     #   is an integer.  Note that   int   has NO quotes surrounding it.
